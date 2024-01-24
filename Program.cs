@@ -6,7 +6,7 @@ namespace AbsolutePathFileConsole
 {
    internal class Program
    {
-      static void Main(string[] args)
+      static void Main()
       {
          // Абсолютный путь к файлу
          Console.WriteLine("Абсолютный путь к файлу в console application");
