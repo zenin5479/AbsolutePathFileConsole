@@ -1,2 +1,2 @@
 # AbsolutePathFileConsole
-Абсолютный путь к файлу в console application
+РђР±СЃРѕР»СЋС‚РЅС‹Р№ РїСѓС‚СЊ Рє С„Р°Р№Р»Сѓ РєРѕРЅСЃРѕР»СЊ 
